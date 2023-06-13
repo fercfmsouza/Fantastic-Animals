@@ -1,0 +1,6 @@
+const listaAnimais = document.querySelector('.animais-lista');
+
+function nome(coco) {
+  return `${coco} Seja bem vindo`;
+}
+console.log(coco);
